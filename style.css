@@ -7,7 +7,7 @@ section{
     margin-bottom: 150px;
 }
 .about-info{
-    background-image: url(/image.png);
+    background-image: url(image.png);
 }
 .orange-color{
     color: orange;
@@ -35,9 +35,6 @@ section{
 }
 .recipie{
     text-align: center;
-}
-div h4{
-    display: flex;
 }
 .image-info{
     width: 80%;
